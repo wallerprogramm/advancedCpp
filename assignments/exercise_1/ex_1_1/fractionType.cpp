@@ -102,7 +102,7 @@ void interactive_example() {
     break;
     case '/': cout << f1 << " / " << f2 << " = " << f1/f2 << endl;
     break;
-    default: cout << "Unluckily, " << operation << "isn't an operator!" << endl;
+    default: cout << "Unluckily, " << operation << " isn't an operator!" << endl;
   }
 }
 
